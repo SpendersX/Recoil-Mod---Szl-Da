@@ -1,0 +1,1 @@
+Recoil mod is a simple program that allows you to edit how much your mouse gose left or right or up and down when you hold right click and left click down translating to when you fire your gun in a video game
